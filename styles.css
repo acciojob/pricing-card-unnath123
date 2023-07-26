@@ -3,8 +3,8 @@
 	width:300px;
 	height:500px;
 	padding:20px;
-	background-color:aqua;
-	border-radius:10px;
+	background-color:#f7f5f5;
+	box-shadow:0 0 3px 1px grey 
 }
 .image>img{
 	width:100%;
@@ -30,4 +30,5 @@
 	height:50px;
 	background-color:#ff695e;
 	color:white;
+	border:none;
 }
